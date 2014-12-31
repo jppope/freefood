@@ -1,5 +1,5 @@
 
-This project is the initiative to give free food to everyone in the world. 
+<h1>This project is the initiative to give free food to everyone in the world.</h1> 
 
 We currently believe this to be possible by using current technology, and through and open source initiative (we need some help).
 
