@@ -1,11 +1,11 @@
 
-<h1>This project is the initiative to give free food to everyone in the world.</h1> 
+<h1>This project is the software & robotics project to provide free food for everyone in the world. Everyone.</h1> 
 
 We currently believe this to be possible by using current technology, and through and open source initiative (we need some help).
 
 This project's scope is the following:
 
-=> to figure out if free food can be accomplished
+=> to figure out if free food can be accomplished<br>
 => to begin researching and generating assets to accomplish the objective 
 => to build the software to accomplish the project
 => to build the hardware to accomplish the project (or the means to produce the hardware)
