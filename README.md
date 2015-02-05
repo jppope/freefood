@@ -1,7 +1,7 @@
 
 <h1>This project is the software & robotics project to provide free food for everyone in the world. Everyone.</h1> 
 
-We currently believe this to be possible by using current technology, and through and open source initiative (we need some help).
+We currently believe this to be possible by using current technology, and through an open source initiative (we need some help).
 
 This project's scope is the following:
 
